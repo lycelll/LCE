@@ -2,7 +2,8 @@
 
 This seems like the best way to do it that ive seen, and it should work in general for joining servers, if it doesnt? Whoops! This allows Java support but it should also work for just LCE servers, but who am I to know!
 
-https://github.com/DeveloperExotic/LegacyCrossPlay 
+https://github.com/DeveloperExotic/LegacyCrossPlay Download the Client AND the Source Code. You need both, .zip for windows, .tar.gz for linux. <img width="1250" height="590" alt="image" src="https://github.com/user-attachments/assets/16b27a63-e2bf-46f3-9419-f663efdcba4a" />
+
 
 The repo above gives you an instructions for what to do to get yourself set up, DO THOSE FIRST. Then on a server host of your choice, be it Aternos, your own hardware or a server hosting service like Apex or Shockbyte, set the server version to release 1.8. Also make sure your server is set to offline authentication mode in the server properties file or else it will throw an error.
 
