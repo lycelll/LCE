@@ -1,6 +1,6 @@
 # LCE Server + Java Crossplay Support
 
-This seems like the best way to do it that ive seen, and it should work in general for joining servers, if it doesnt? Whoops!
+This seems like the best way to do it that ive seen, and it should work in general for joining servers, if it doesnt? Whoops! This allows Java support but it should also work for just LCE servers, but who am I to know!
 
 https://github.com/DeveloperExotic/LegacyCrossPlay 
 
